@@ -7,3 +7,4 @@ If a user want to  read a single blog post, then user have to click the Read mor
 
 This project has multiple category. Bio food is one of them. If user go for a category like Bio food.then it looks like 
 ![CaptureAcategory](https://user-images.githubusercontent.com/60401072/132963214-92011c10-69c8-439a-93ed-5dcafb092bfc.PNG)
+
