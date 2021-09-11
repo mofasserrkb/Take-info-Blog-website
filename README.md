@@ -15,3 +15,6 @@ After searching in a specific topic a user will get searching result like that
 
 
 ![CapturSearch](https://user-images.githubusercontent.com/60401072/132963430-8696419e-0c10-4490-b19a-bbc6a2c08166.PNG)
+
+Admin Panel:
+
