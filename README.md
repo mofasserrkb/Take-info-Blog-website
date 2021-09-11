@@ -26,3 +26,7 @@ Admin Panel:
 
 
 ![Caas](https://user-images.githubusercontent.com/60401072/132963688-ee6ba3bc-7b4b-4703-8651-1b3f160820d8.PNG)
+
+
+![CaptuvPNG](https://user-images.githubusercontent.com/60401072/132963738-01b33a47-6468-410f-90fc-7b78ec910ade.PNG)
+
