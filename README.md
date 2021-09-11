@@ -30,3 +30,5 @@ Admin Panel:
 
 ![CaptuvPNG](https://user-images.githubusercontent.com/60401072/132963738-01b33a47-6468-410f-90fc-7b78ec910ade.PNG)
 
+
+![Capti](https://user-images.githubusercontent.com/60401072/132965765-6cb7ec74-1b8c-473c-960e-b67c741d415d.PNG)
