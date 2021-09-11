@@ -20,3 +20,6 @@ Admin Panel:
 
 
 ![Admine](https://user-images.githubusercontent.com/60401072/132963506-b679e0f0-6632-4e49-bb42-e3b82b60e4d5.PNG)
+
+
+![Capture indexA](https://user-images.githubusercontent.com/60401072/132963607-c001619f-bc14-4509-988b-bc6dfdc3f1f4.PNG)
