@@ -32,3 +32,7 @@ Admin Panel:
 
 
 ![Capti](https://user-images.githubusercontent.com/60401072/132965765-6cb7ec74-1b8c-473c-960e-b67c741d415d.PNG)
+
+Responsive website
+
+![responsive](https://user-images.githubusercontent.com/60401072/132990734-88c64c55-1070-45b7-88ed-6ac56dcfc67e.PNG)
